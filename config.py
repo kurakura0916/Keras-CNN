@@ -9,7 +9,7 @@ img_height = 150
 img_width = 150
 
 # dataフォルダのディレクトリ
-base_dir = "/Users/hiroki.kurasawa/Documents/cats_and_dogs/data"
+base_dir = "/Users/hiroki.kurasawa/Documents/Keras-CNN/data"
 # 訓練用のフォルダディレクトリ
 train_dir = os.path.join(base_dir,"train")
 # 訓練用猫画像のフォルダディレクイ
