@@ -11,6 +11,8 @@ Python 3.6.4 :: Anaconda, Inc.
 keras  2.2.2
 
 ## ファイル/フォルダ構成
+
+```
 Keras-CNN
 ├── config.py
 ├── data
@@ -38,3 +40,4 @@ Keras-CNN
 ├── main.py
 ├── model.py
 └── train.py
+```
